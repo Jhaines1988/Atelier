@@ -20,3 +20,7 @@ FEC Project Hack Reactor
 6. In the first terminal run *npm run client-dev*
 7. In another terminal, run *npm run server-dev*
 8. Open http://localhost:3000/ on browser.
+
+
+https://user-images.githubusercontent.com/38839596/158434504-c358388d-26e4-468c-aa6f-a7de611acdf1.mov
+
